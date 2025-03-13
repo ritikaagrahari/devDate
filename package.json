@@ -1,0 +1,19 @@
+{
+  "name": "devdate",
+  "version": "1.0.0",
+  "description": "Dating web application for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Ritika Agrahari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
